@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SamaprixExpo",
-    "slug": "SamaprixExpo",
+    "name": "Samaprix",
+    "slug": "samaprix",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
